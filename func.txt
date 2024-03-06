@@ -1,0 +1,21 @@
+# FUNCIONALIDADES
+
+- [ X ] Listagem de produtos (cafés) disponíveis para compra
+- [ X ] Adicionar uma quantidade específicas de itens no carrinho
+- [ X ] Aumentar ou remover a quantidade de itens no carrinho
+- [ X ] Exibir o total de itens no carrinho no Header
+- [  ] Formulário para o usuário preencher o seu endereço
+- [ X ] Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
+
+
+# CONCEITOS 
+
+- Estados
+- ContextAPI
+- LocalStorage
+- Imutabilidade do estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
+
+https://efficient-sloth-d85.notion.site/Desafio-02-Coffee-Delivery-30e42a21fdb44b09a85244fc2c3dbdf9

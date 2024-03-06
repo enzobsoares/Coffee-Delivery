@@ -1,0 +1,116 @@
+{
+    "coffees": [
+        {
+            "id": "1",
+            "imgSrc": "../../../public/coffees/expressoTradicional.png",
+            "title": "Expresso Tradicional",
+            "description": "O tradicional café feito com água quente e grãos moídos",
+            "tags": ["TRADICIONAL"],
+            "price": 9.90
+        },
+        {
+            "id": "2",
+            "imgSrc": "../../../public/coffees/expressoAmericano.png",
+            "title": "Expresso Americano",
+            "description": "Expresso diluído, menos intenso que o tradicional",
+            "tags": ["TRADICIONAL"],
+            "price": 10.90
+        },
+        {
+            "id": "3",
+            "imgSrc": "../../../public/coffees/expressoCremoso.png",
+            "title": "Expresso Cremoso",
+            "description": "Café expresso tradicional com espuma cremosa",
+            "tags": ["TRADICIONAL"],
+            "price": 12.90
+        },
+        {
+            "id": "4",
+            "imgSrc": "../../../public/coffees/expressoGelado.png",
+            "title": "Expresso Gelado",
+            "description": "Bebida preparada com café expresso e cubos de gelo",
+            "tags": ["TRADICIONAL", "GELADO"],
+            "price": 12.90
+        },
+        {
+            "id": "5",
+            "imgSrc": "../../../public/coffees/cafeComLeite.png",
+            "title": "Expresso com Leite",
+            "description": "Meio a meio de expresso tradicional com leite vaporizado",
+            "tags": ["TRADICIONAL","COM LEITE"],
+            "price": 12.90
+        },
+        {
+            "id": "6",
+            "imgSrc": "../../../public/coffees/latte.png",
+            "title": "Latte",
+            "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+            "tags": ["TRADICIONAL","COM LEITE"],
+            "price": 8.90
+        },
+        {
+            "id": "7",
+            "imgSrc": "../../../public/coffees/capuccino.png",
+            "title": "Capuccino",
+            "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
+            "tags": ["TRADICIONAL","COM LEITE"],
+            "price": 10.99
+        },
+        {
+            "id": "8",
+            "imgSrc": "../../../public/coffees/macchiato.png",
+            "title": "Macchiato",
+            "description": "Café expresso misturado com um pouco de leite quente e espuma",
+            "tags": ["TRADICIONAL","COM LEITE"],
+            "price": 12.90
+        },
+        {
+            "id": "9",
+            "imgSrc": "../../../public/coffees/mocaccino.png",
+            "title": "Mocaccino",
+            "description": "Café expresso com calda de chocolate, pouco leite e espuma",
+            "tags": ["TRADICIONAL","COM LEITE"],
+            "price": 12.90
+        },
+        {
+            "id": "10",
+            "imgSrc": "../../../public/coffees/chocolateQuente.png",
+            "title": "Chocolate Quente",
+            "description": "Bebida feita com chocolate dissolvido no leite quente e café",
+            "tags": ["ESPECIAL","COM LEITE"],
+            "price": 10.90
+        },
+        {
+            "id": "11",
+            "imgSrc": "../../../public/coffees/cubano.png",
+            "title": "Cubano",
+            "description": "Drink gelado de café expresso com rum, creme de leite e hortelã",
+            "tags": ["ESPECIAL","ALCOÓLICO", "GELADO"],
+            "price": 13.90
+        },
+        {
+            "id": "12",
+            "imgSrc": "../../../public/coffees/havaiano.png",
+            "title": "Havaiano",
+            "description": "Bebida adocicada preparada com café e leite de coco",
+            "tags": ["ESPECIAL"],
+            "price": 13.90
+        },
+        {
+            "id": "13",
+            "imgSrc": "../../../public/coffees/arabe.png",
+            "title": "Árabe",
+            "description": "Bebida preparada com grãos de café árabe e especiarias",
+            "tags": ["ESPECIAL"],
+            "price": 14.90
+        },
+        {
+            "id": "14",
+            "imgSrc": "../../../public/coffees/irlandes.png",
+            "title": "Irlandês",
+            "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
+            "tags": ["ESPECIAL", "ALCOÓLICO"],
+            "price": 15.90
+        }
+    ]
+}
